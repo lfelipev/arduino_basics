@@ -1,1 +1,2 @@
-# arduino_basics
+# curso-arduino-ieee-ras
+Códigos de Arduino
